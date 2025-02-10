@@ -1,0 +1,1 @@
+# Master-detail-CRUD-ASP.NET-Core-MVC-
