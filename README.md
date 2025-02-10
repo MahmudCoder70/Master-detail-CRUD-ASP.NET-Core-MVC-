@@ -1,1 +1,1 @@
-# Master-detail-CRUD-ASP.NET-Core-MVC-
+# Master-detail-CRUD-Also This project is a small ERP project Using ASP.NET-Core-MVC-
